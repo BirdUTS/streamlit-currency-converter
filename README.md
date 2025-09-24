@@ -2,8 +2,8 @@
 # FX Converter Web App
 
 ## My Details
-- **Full Name:** [Your Name]
-- **Student ID:** [Your Student ID]
+- **Full Name:** WAI WING TANG
+- **Student ID:** 25132527
 
 ## Project Description
 A web application built with Python and Streamlit that allows users to perform currency conversions using real-time and historical data from the Frankfurter API. It can display the latest rates, historical rates, and show a trend over the last three years.

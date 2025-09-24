@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # FX Converter Web App
 
 ## My Details
